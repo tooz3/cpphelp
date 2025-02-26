@@ -1,2 +1,3 @@
 # cpphelp
-uses #define to help feeble minded coderes
+uses #define to help feeble minded coders
+
